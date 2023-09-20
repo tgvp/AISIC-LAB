@@ -3,4 +3,4 @@ Repository containing information, research studies, algorithms and general know
 
 ### Activities:
 
-- [ ] Louvain Algorithm study. [in progress]
+- [ ] Study Graphs and Louvain Algorithm. [in progress]
