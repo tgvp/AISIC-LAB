@@ -4,4 +4,4 @@ Repository containing information, research studies, algorithms and general know
 ### Activities:
 
 - [ ] Study Graphs and Louvain Algorithm. [in progress]
-- [ ] NLP Basics (Text Representation, TF-IDF, Word Embeddings)
+- [ ] NLP Basics (Word Count, Text Representation, TF-IDF, Word Embeddings)
